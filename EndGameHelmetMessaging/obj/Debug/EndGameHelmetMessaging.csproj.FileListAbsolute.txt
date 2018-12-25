@@ -1,0 +1,12 @@
+c:\users\nkudu\documents\visual studio 2015\Projects\EndGameHelmetMessaging\EndGameHelmetMessaging\bin\Debug\EndGameHelmetMessaging.exe.config
+C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\EndGameHelmetMessaging\bin\Debug\EndGameHelmetMessaging.exe
+C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\EndGameHelmetMessaging\bin\Debug\EndGameHelmetMessaging.pdb
+C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\EndGameHelmetMessaging\obj\Debug\EndGameHelmetMessaging.csprojResolveAssemblyReference.cache
+C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\EndGameHelmetMessaging\obj\Debug\EndGameHelmetMessaging.exe
+C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\EndGameHelmetMessaging\obj\Debug\EndGameHelmetMessaging.pdb
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging\EndGameHelmetMessaging\bin\Debug\EndGameHelmetMessaging.exe.config
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging\EndGameHelmetMessaging\obj\Debug\EndGameHelmetMessaging.exe
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging\EndGameHelmetMessaging\obj\Debug\EndGameHelmetMessaging.pdb
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging\EndGameHelmetMessaging\bin\Debug\EndGameHelmetMessaging.exe
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging\EndGameHelmetMessaging\bin\Debug\EndGameHelmetMessaging.pdb
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging\EndGameHelmetMessaging\obj\Debug\EndGameHelmetMessaging.csprojResolveAssemblyReference.cache
