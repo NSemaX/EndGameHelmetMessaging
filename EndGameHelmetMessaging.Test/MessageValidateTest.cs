@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using EndGameHelmetMessaging.MessagingService;
 
 
 namespace EndGameHelmetMessaging.Test
@@ -16,7 +17,8 @@ namespace EndGameHelmetMessaging.Test
                 ResponseCode = ErrorCodes.error_Message_empty
             };
 
-            var message_manager = new MessagingManager();
+            // var message_manager = new MessagingManager();
+            MessagingManager message_manager = new MessagingManager();
 
             var messageRequest = new MessageRequest
             {

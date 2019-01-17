@@ -16,3 +16,20 @@ C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\Helm
 C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\HelmetMessagingService\obj\Debug\HelmetMessagingService.csprojResolveAssemblyReference.cache
 C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\HelmetMessagingService\obj\Debug\HelmetMessagingService.dll
 C:\Users\nkudu\Documents\Visual Studio 2015\Projects\EndGameHelmetMessaging\HelmetMessagingService\obj\Debug\HelmetMessagingService.pdb
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\HelmetMessagingService.dll.config
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\HelmetMessagingService.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\HelmetMessagingService.pdb
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.Web.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.Web.xml
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\obj\Debug\HelmetMessagingService.dll
+C:\Users\nkudu\Desktop\EndGameHelmetMessaging-master\HelmetMessagingService\obj\Debug\HelmetMessagingService.pdb

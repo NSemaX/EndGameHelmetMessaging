@@ -2,6 +2,7 @@
 using Autofac.Extras.Moq;
 using Moq;
 using System;
+using EndGameHelmetMessaging.MessagingService;
 
 
 namespace EndGameHelmetMessaging.Test
